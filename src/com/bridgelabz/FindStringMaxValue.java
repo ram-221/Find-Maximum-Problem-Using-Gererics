@@ -21,7 +21,7 @@ public class FindStringMaxValue {
 		str1 = read.next();
 		System.out.println("Enter the Second String");
 		str2 = read.next();
-		System.out.println("Enter the Three String");
+		System.out.println("Enter the Third String");
 		str3 = read.next();
 		maxOfString(str1,str2,str3);
 		read.close();
